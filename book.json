@@ -1,19 +1,17 @@
 {
-    
-    "title": "魔方系统",
-    "description": "魔方系统",
-    "author" : "phy",
-    "plugins": [ 
-				"tbfed-pagefooter","github",
-				"theme-api"  
-	],
+    "plugins": [
+        "tbfed-pagefooter",
+        "github",
+        "theme-api",
+        "atoc"
+    ],
     "pluginsConfig": {
         "fontSettings": {
-            "theme": "sepia", 
+            "theme": "sepia",
             "family": "serif",
-            "size": 1 
+            "size": 1
         },
-		"theme-api": {
+        "theme-api": {
             "languages": [
                 {
                     "lang": "js",
@@ -25,8 +23,8 @@
                     "name": "Java"
                 }
             ]
-		},
-		"autocover": {
+        },
+        "autocover": {
             "font": {
                 "size": null,
                 "family": "Impact",
@@ -40,18 +38,31 @@
                 "color": "#09F"
             }
         },
-		"github": { "url": "https://github.com/lynnhawk/magiccube.git" 
-		},
-		"tbfed-pagefooter": {
-			"copyright":"Copyright &copy www.pthink.com.cn 2016",
-			"modify_label": "modified: ",
-			"modify_format": "YYYY-MM-DD HH:mm:ss"
-		}
+        "github": {
+            "url": "https://github.com/lynnhawk/magiccube.git"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy www.pthink.com.cn 2016",
+            "modify_label": "modified: ",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "atoc": { "addClass": true, "className": "atoc" }
+
     },
+    "author": "phy",
+    "pdf": {
+        "pageNumbers": false,
+        "margin": {
+            "top": 36,
+            "bottom": 36
+        },
+        "toc": true
+    },
+    "title": "魔方系统",
     "links": {
-    	"sidebar": {
-    	    "新鹏程": "http://www.pthink.com.cn"
-    	},
+        "sidebar": {
+            "新鹏程": "http://www.pthink.com.cn"
+        },
         "sharing": {
             "google": null,
             "facebook": null,
@@ -60,16 +71,5 @@
             "all": null
         }
     },
-    "pdf": {
-        "toc": true,
-        "pageNumbers": false,
-        "fontSize": 12,
-        "paperSize": "a4",
-        "margin": {
-            "right": 62,
-            "left": 62,
-            "top": 36,
-            "bottom": 36
-        }
-    }
+    "description": "魔方系统"
 }
