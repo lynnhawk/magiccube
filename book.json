@@ -3,7 +3,10 @@
         "tbfed-pagefooter",
         "github",
         "theme-api",
-        "atoc","emphasize","katex","include-codeblock"
+        "atoc",
+        "emphasize",
+        "katex",
+        "include-codeblock"
     ],
     "pluginsConfig": {
         "fontSettings": {
