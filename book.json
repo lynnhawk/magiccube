@@ -62,13 +62,6 @@
     "links": {
         "sidebar": {
             "新朋程": "http://www.pthink.com.cn"
-        },
-        "sharing": {
-            "google": null,
-            "facebook": null,
-            "twitter": null,
-            "weibo": null,
-            "all": null
         }
     },
     "description": "魔方系统"
