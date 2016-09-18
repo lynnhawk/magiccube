@@ -46,8 +46,6 @@
             "utcOffset": "8",
             "isShowQRCode": true,
             "baseUri": "https://lynnhawk.gitbooks.io/magiccude/content/",
-            "isShowIssues": true,
-            "issueNum": 8,
             "style": "normal"
         }
     },
