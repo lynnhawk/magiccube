@@ -46,7 +46,8 @@
             "modify_label": "modified: ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-        "atoc": { "addClass": true, "className": "atoc" }
+        "atoc": { "addClass": true, "className": "atoc" },
+        "sharing": { "weibo": false, "facebook": false, "twitter": false, "google": false, "instapaper": false, "vk": false, "all": [ "facebook", "google", "twitter", "weibo", "instapaper" ] }
 
     },
     "author": "phy",
