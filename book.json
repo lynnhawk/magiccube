@@ -43,7 +43,7 @@
             "copyright": "Copyright &#169; phy@pthink.com.cn",
             "timeColor": "#666",
             "copyrightColor": "#666",
-            "utcOffset": "8",
+            "utcOffset": "+8",
             "isShowQRCode": true,
             "baseUri": "https://lynnhawk.gitbooks.io/magiccude/content/",
             "style": "normal"
