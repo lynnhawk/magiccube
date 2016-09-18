@@ -7,7 +7,8 @@
         "emphasize",
         "katex",
         "include-codeblock",
-        "-page-footer"
+        "-page-footer",
+        "ace"
     ],
     "pluginsConfig": {
         "-tbfed-pagefooter": {
