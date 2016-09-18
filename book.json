@@ -37,10 +37,10 @@
         },
          "page-footer": {
             "description": "modified at",
-            "signature": "Aleen",
+            "signature": "phy",
             "wisdom": "More than a coder, more than a designer",
             "format": "yyyy-MM-dd hh:mm:ss",
-            "copyright": "Copyright &#169; aleen42",
+            "copyright": "Copyright &#169; pthink-phy",
             "timeColor": "#666",
             "copyrightColor": "#666",
             "utcOffset": "8",
