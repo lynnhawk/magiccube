@@ -6,13 +6,17 @@
         "atoc",
         "emphasize",
         "katex",
-        "include-codeblock"
+        "include-codeblock",
+        "page-footer"
     ],
     "pluginsConfig": {
-        "fontSettings": {
-            "theme": "sepia",
-            "family": "serif",
-            "size": 1
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy www.pthink.com.cn 2016",
+            "modify_label": "modified: ",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "github": {
+            "url": "https://github.com/lynnhawk/magiccube.git"
         },
         "theme-api": {
             "languages": [
@@ -27,31 +31,10 @@
                 }
             ]
         },
-        "autocover": {
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFF"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#09F"
-            }
-        },
-        "github": {
-            "url": "https://github.com/lynnhawk/magiccube.git"
-        },
-        "tbfed-pagefooter": {
-            "copyright": "Copyright &copy www.pthink.com.cn 2016",
-            "modify_label": "modified: ",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
-        "atoc": { "addClass": true, "className": "atoc" },
-        "sharing": { "weibo": false, "facebook": false, "twitter": false, "google": false, "instapaper": false, "vk": false, "all": [ "facebook", "google", "twitter", "weibo", "instapaper" ] }
-
+        "atoc": {
+            "addClass": true,
+            "className": "atoc"
+        }
     },
     "author": "phy",
     "pdf": {
