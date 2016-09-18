@@ -7,7 +7,7 @@
         "emphasize",
         "katex",
         "include-codeblock",
-        "page-footer"
+        "-page-footer"
     ],
     "pluginsConfig": {
         "-tbfed-pagefooter": {
@@ -35,7 +35,7 @@
             "addClass": true,
             "className": "atoc"
         },
-         "page-footer": {
+         "-page-footer": {
             "description": "modified at",
             "signature": "phy",
             "wisdom": "More than a coder, more than a designer",
