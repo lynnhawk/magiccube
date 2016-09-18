@@ -44,7 +44,6 @@
             "timeColor": "#666",
             "copyrightColor": "#666",
             "utcOffset": "+8",
-            "isShowQRCode": true,
             "baseUri": "https://lynnhawk.gitbooks.io/magiccude/content/",
             "style": "normal"
         }
