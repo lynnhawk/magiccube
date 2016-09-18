@@ -48,8 +48,7 @@
             "baseUri": "https://lynnhawk.gitbooks.io/magiccude/content/",
             "isShowIssues": true,
             "repo": "lynnhawk/magiccude",
-            "issueNum": 8,
-            "token": "",
+            "issueNum": 8
             "style": "normal"
         }
     },
