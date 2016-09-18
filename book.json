@@ -55,6 +55,7 @@
     },
     "author": "phy",
     "pdf": {
+        "fontSize": 12,
         "pageNumbers": false,
         "margin": {
             "top": 36,
