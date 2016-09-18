@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "tbfed-pagefooter",
+        "-tbfed-pagefooter",
         "github",
         "theme-api",
         "atoc",
@@ -10,7 +10,7 @@
         "page-footer"
     ],
     "pluginsConfig": {
-        "tbfed-pagefooter": {
+        "-tbfed-pagefooter": {
             "copyright": "Copyright &copy www.pthink.com.cn 2016",
             "modify_label": "modified: ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
