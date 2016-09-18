@@ -45,9 +45,9 @@
             "copyrightColor": "#666",
             "utcOffset": "8",
             "isShowQRCode": true,
-            "baseUri": "https://aleen42.gitbooks.io/personalwiki/content/",
+            "baseUri": "https://lynnhawk.gitbooks.io/lynnhawk/magiccude/content/",
             "isShowIssues": true,
-            "repo": "aleen42/PersonalWiki",
+            "repo": "lynnhawk/magiccude",
             "issueNum": 8,
             "token": "",
             "style": "normal"
