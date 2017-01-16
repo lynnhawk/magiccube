@@ -3,7 +3,7 @@
         "-tbfed-pagefooter",
         "github",
         "theme-api",
-        "atoc",
+        "page-toc",
         "emphasize",
         "katex",
         "include-codeblock",
@@ -31,10 +31,6 @@
                     "name": "Java"
                 }
             ]
-        },
-        "atoc": {
-            "addClass": true,
-            "className": "atoc"
         },
          "-page-footer": {
             "description": "modified at",
