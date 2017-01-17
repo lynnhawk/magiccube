@@ -32,6 +32,9 @@
                 }
             ]
         },
+        "theme-default": {
+             "showLevel": true
+        },
          "-page-footer": {
             "description": "modified at",
             "signature": "phy",
